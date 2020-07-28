@@ -11,6 +11,9 @@ Data consist of about **2600 images** in green screen. I used **20%** of it for 
 # Model
 Model has **3 convolution and pooling layers** with changing filter and kernel sizes, **30% dropout layer** to prevent overfitting, **1 hidden layer** of 64 nodes and an **output layer** with softmax activation function.
 
+# Results
+Model performed pretty well with accuracy over 90%. I also tested 2 images from different dataset and they were predicted correctly.
+
 
 
 
